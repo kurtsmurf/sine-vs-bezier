@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #3E3E3E;
+}
+
+#lblz {
+    margin-top: 1rem;
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+#bezier {
+    color: #0DBC79;
+}
+
+#sine {
+    color: orange;
+}
